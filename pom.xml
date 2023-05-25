@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>ICICI Bank Release nexus Repository</name>
-	      <url>http://13.233.109.137:9980/raviraja/repository/icicibank-relese/</url>
+	      <name>raviraja Release nexus Repository</name>
+	      <url>http://15.206.173.155:8081/repository/raviraja-relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICI Bank snapshot nexus Repository</name>
-	      <url>http://13.233.109.137:9980/raviraja/repository/icicibank-snapshot/</url>
+	      <name>raviraja snapshot nexus Repository</name>
+	      <url>http://15.206.173.155:8081/repository/raviraja-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
